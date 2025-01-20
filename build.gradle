@@ -13,11 +13,11 @@ ext {
     targetCompatibility = JavaVersion.VERSION_17
 }
 
-pluginBundle {
-    website = "https://github.com/hannesa2/adfghjxyz"
-    vcsUrl = "https://github.com/hannesa2/adfghjxyz.git"
-    tags = ["android", "adb", "emulator"]
-}
+//pluginBundle {
+//    website = "https://github.com/hannesa2/adfghjxyz"
+//    vcsUrl = "https://github.com/hannesa2/adfghjxyz.git"
+//    tags = ["android", "adb", "emulator"]
+//}
 
 
 gradlePlugin {
